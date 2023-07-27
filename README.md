@@ -1,7 +1,7 @@
 
 # Focus Timer
 
-This project is made for people to calculate their BMI.
+This project is a pomodoro-style timer for 25 minutes loops of focus work. You also have the option to play a sound during the timer.
 ## Practicing:
 
 - Document querySelector
@@ -29,6 +29,10 @@ This project is made for people to calculate their BMI.
 
 
 ## Demo
+
+
+
+https://github.com/lucasmichels/exp_focus-timer/assets/39132280/ef8248eb-097a-4f0a-a501-f98519be0312
 
 
 
